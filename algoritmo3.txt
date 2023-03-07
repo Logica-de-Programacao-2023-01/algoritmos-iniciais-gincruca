@@ -1,0 +1,12 @@
+ Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+1. Leia uma lista de números
+2. Escreva os números 
+3. Escreva a quantidade de números existentes na lista (y)
+4. Faça uma divisão entre a soma dos números da lista (x) sobre a quantidade de números existentes na lista (y)
+4.1 x/y
+5. Se a divisão der um número exato, este será a média
+5.1 x/y = z
+6. Se a divisão não der um número exato, escreva em formato de fração ou decimal, este número será a média
+6.1 x/y = z/n
+6.2 x/y = z,m
+Fim
