@@ -1,1 +1,8 @@
-Resolvo
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses 
+dois números.
+1. Leia dois números x e y
+2. Escreva a soma (x+y)
+3. Faça a soma x+y
+3.1. Se o resultado da soma der exato (z), então x+y = z
+3.2. Se o resultado da soma der decimal (d), então x e/ou y é decimal
+fim 
